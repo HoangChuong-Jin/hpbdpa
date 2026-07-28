@@ -1,13 +1,13 @@
 let w = (c.width = window.innerWidth),
   h = (c.height = window.innerHeight),
   ctx = c.getContext("2d"),
-  hw = w / 2 - 50;
+  hw = w / 2 - 55;
 (hh = h / 2),
   (opts = {
     // change the text in here //
     strings: ["HAPPY", "BIRTHDAY!", "PHƯƠNG ANH"],
     charSize: 30,
-    charSpacing: 25,
+    charSpacing: 40,
     lineHeight: 40,
 
     cx: w / 2,
