@@ -1,8 +1,8 @@
 let w = (c.width = window.innerWidth),
   h = (c.height = window.innerHeight),
   ctx = c.getContext("2d"),
-  hw = w / 2.08;
-(hh = h / 2.2),
+  hw = w / 2 - 30;
+(hh = h / 2),
   (opts = {
     // change the text in here //
     strings: ["HAPPY", "BIRTHDAY!", "PHƯƠNGANH"],
