@@ -1,7 +1,7 @@
 let w = (c.width = window.innerWidth),
   h = (c.height = window.innerHeight),
   ctx = c.getContext("2d"),
-  hw = w / 2.05;
+  hw = w / 2.08;
 (hh = h / 2.2),
   (opts = {
     // change the text in here //
